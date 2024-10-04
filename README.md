@@ -1,4 +1,3 @@
-![logo](https://github.com/Saif-Ahmed-Abbasi/Saif-Ahmed-Abbasi/blob/main/images%20(3).jpeg)
 <h1 align="center">Hi 👋, I'm Saif Ahmed Abbasi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
