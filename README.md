@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmed Abbasi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web/App developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
